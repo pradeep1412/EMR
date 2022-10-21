@@ -35,5 +35,9 @@
   "devDependencies": {
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/pradeep1412/EMR.git",
+  "author": "pradeep1412 <ppradeepkumar1412@gmail.com>",
+  "license": "MIT"
 }
