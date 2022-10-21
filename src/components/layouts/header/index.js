@@ -4,12 +4,12 @@ import Link from "next/link";
 
 const nav_link = [
   {
-    path:'/doctor',
-    display:'Doctor Registration'
+    path:'/signup',
+    display:'Signup'
   },
   {
-    path:'/Patient',
-    display:'Patient Registration'
+    path:'/login',
+    display:'Login'
   },
 ]
 
